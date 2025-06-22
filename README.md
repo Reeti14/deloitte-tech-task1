@@ -27,9 +27,11 @@ This project is part of the **Deloitte Technology Virtual Experience Program** o
 ```bash
 python test_main.py
 
-Author
-Reeti Singh
-BTech CSE | United Institute of Technology
-🔗[LinkedIn](https://www.linkedin.com/in/reeti-singh-09748b291)
-🔗[GitHub](https://github.com/Reeti14)
+## 👩‍💻 Author
+
+**Reeti Singh**  
+BTech CSE | United Institute of Technology  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/reeti-singh-09748b291)  
+🔗 [GitHub](https://github.com/Reeti14)
 
