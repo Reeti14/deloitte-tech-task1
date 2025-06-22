@@ -30,5 +30,6 @@ python test_main.py
 Author
 Reeti Singh
 BTech CSE | United Institute of Technology
-🔗 [LinkedIn](https://www.linkedin.com/in/reeti-singh-09748b291) | [GitHub](https://github.com/Reeti14)
+🔗[LinkedIn](https://www.linkedin.com/in/reeti-singh-09748b291)
+🔗[GitHub](https://github.com/Reeti14)
 
